@@ -7,7 +7,7 @@ Simple SSH brute forcing tool in python
 
 Install the Pwn and Paramiko modules
 
-`pip3 install pwn paramiki`
+`pip3 install pwn paramiko`
 
 # Usage 
 
