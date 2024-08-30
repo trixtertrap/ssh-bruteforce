@@ -1,5 +1,6 @@
 # SSH bruteforcing tool
 Simple SSH brute forcing tool in python
+![SSH Demo](.assets/ssh.gif)
 
 # Prerequisist
 
@@ -17,5 +18,5 @@ Run the program
 
 `python3 ssh-brute.py`
 
-![SSH Demo](.assets/ssh.gif)
+
 
