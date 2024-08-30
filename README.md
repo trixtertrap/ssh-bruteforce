@@ -16,3 +16,6 @@ Use custom password files or use the files like rockyou for the password list
 Run the program 
 
 `python3 ssh-brute.py`
+
+![SSH Demo](.assets/ssh.gif)
+
