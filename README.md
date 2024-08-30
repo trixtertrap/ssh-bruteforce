@@ -1,11 +1,11 @@
-# SSH -bruteforcing tool
+# SSH bruteforcing tool
 Simple SSH brute forcing tool in python
 
 # Prerequisist
 
 Install the Pwn and Paramiko modules
 
-\pip3 install pwn paramiki
+`pip3 install pwn paramiki`
 
 # Usage 
 
@@ -15,4 +15,4 @@ Use custom password files or use the files like rockyou for the password list
 
 Run the program 
 
-python3 ssh-brute.py
+`python3 ssh-brute.py`
