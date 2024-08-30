@@ -1,11 +1,11 @@
-# ssh-bruteforce
+# SSH -bruteforcing tool
 Simple SSH brute forcing tool in python
 
 # Prerequisist
 
 Install the Pwn and Paramiko modules
 
-\'pip3 install pwn paramiki'
+\ 'pip3 install pwn paramiki'
 
 # Usage 
 
