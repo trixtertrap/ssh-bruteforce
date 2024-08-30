@@ -1,2 +1,2 @@
 # ssh-bruteforce
-SSH brure forcing tool in python
+SSH brute forcing tool in python
